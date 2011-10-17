@@ -1,20 +1,17 @@
-JavaScript Calculator
-=====================
+# JavaScript Calculator
 
 This is a simple JavaScript calculator that is made to mimic the functionality of the classic Windows calculator.
 It uses CSS classes for layout and unobtrusive JavaScript for functionality.
 It does not rely on any external JavaScript libraries to function.
 
-Features
---------
+## Features
 
 * Support for input from both keyboard and mouse
 * Keyboard shortcuts such as "Esc" for Clear and "r" for reciprocal
 * Support for multiple calculators on a single page
 * Public API for controlling calculators through JavaScript code
 
-How to Use the Calculator
--------------------------
+## How to Use the Calculator
 
 First, download the zip file and extract the contents into a directory on your web server.
 The two "min" files are compressed and should be used in production.
