@@ -25,3 +25,6 @@
 * Fixed the escape key shortcut so it works in all browsers
 * Improved documentation
 * Various minor improvements
+
+## 1.1a3 (1/28/11)
+* Initial public release
