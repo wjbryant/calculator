@@ -5,6 +5,9 @@ of the classic Windows calculator. It uses CSS classes for layout and unobtrusiv
 JavaScript for functionality. It does not rely on any external JavaScript libraries
 to function.
 
+See a live example at
+[wjbryant.com/projects/javascript-calculator/](http://wjbryant.com/projects/javascript-calculator/ "JavaScript Calculator Demo").
+
 ## Features
 
 * Support for input from both keyboard and mouse
