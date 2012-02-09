@@ -33,7 +33,7 @@ will have a calculator generated inside it.
 Note that if you choose to rename or move the css file, it is necessary to set
 the JSCALC.css property to the new file name (or full path if not in the same
 directory) before calling JSCALC.init() so the script knows where to find it.
-Check out the documentation and
+Check out the [documentation](http://wjbryant.github.com/JavaScript-Calculator/docs/ "API Documentation") and
 [this post](http://wjbryant.com/2011/09/02/javascript-calculator-api/ "JavaScript Calculator API")
 for information on more advanced usage.
 
