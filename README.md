@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# Calculator Component
 
 This is a simple JavaScript calculator that is made to mimic the functionality
 of the classic Windows calculator. It uses CSS classes for layout and unobtrusive
@@ -39,6 +39,12 @@ for information on more advanced usage.
 
 ### Example
 
-    <div class="calc"></div>
-    <script src="calc-1.1-min.js"></script>
-    <script>JSCALC.init();</script>
+```html
+<div class="calc"></div>
+<script src="calc-1.1-min.js"></script>
+<script>JSCALC.init();</script>
+```
+
+## License
+
+MIT

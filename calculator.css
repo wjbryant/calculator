@@ -1,16 +1,7 @@
-/*!
- * JavaScript Calculator v1.1
- * http://wjbryant.com/projects/javascript-calculator/
- *
- * Copyright (c) 2011 Bill Bryant
- * Licensed under the MIT license
- * http://opensource.org/licenses/mit-license.php
- */
-
 /* reset commonly used properties */
 .calcContainer,
 .calcContainer form,
-.calcContainer h1,
+.calcContainer .calcTitle,
 .calcContainer div,
 .calcContainer input {
     background: none !important;
@@ -62,7 +53,7 @@
     *width: 17em !important; /* IE6 & IE7 need defined width */
 }
 
-.calcContainer h1 {
+.calcContainer .calcTitle {
     background-color: #0a246a !important;
     color: #fff !important;
     font-size: 100% !important;

@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "repo": "wjbryant/calculator",
+  "description": "Calculator component",
+  "version": "2.0.0-dev",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "calculator.css"
+  ]
+}

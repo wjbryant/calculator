@@ -1,4 +1,7 @@
-# JavaScript Calculator Changelog
+# Calculator Changelog
+
+## Dev
+* Make calculator into a component using https://github.com/component/component
 
 ## 1.1 (10/5/11)
 * Minor documentation update
